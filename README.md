@@ -1,4 +1,6 @@
-# web-form
+# vuejsforminput (web-form)
+
+Form and inputs basics in Vue.js
 
 ## Project setup
 ```
